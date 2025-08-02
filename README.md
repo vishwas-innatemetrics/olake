@@ -1,16 +1,24 @@
 <h1 align="center" style="border-bottom: none">
     <a href="https://datazip.io/olake" target="_blank">
-        <img alt="olake" src="https://github.com/user-attachments/assets/d204f25f-5289-423c-b3f2-44b2194bdeaf" width="100" height="100"/>
+        <img id="logo" src="https://github.com/user-attachments/assets/d204f25f-5289-423c-b3f2-44b2194bdeaf" width="100" height="100"/>
     </a>
     <br>OLake
 </h1>
-
 <p align="center">The fastest open-source tool for replicating databases to Apache Iceberg. OLake, an easy-to-use web interface and a CLI for efficient, scalable, & real-time data ingestion. Visit <a href="https://olake.io/docs" target="_blank">olake.io/docs</a> for the full documentation, and benchmarks</p>
-
 <p align="center">
     <a href="https://github.com/datazip-inc/olake/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/datazip-inc/olake"/></a> <a href="https://olake.io/docs"><img alt="Documentation" height="22" src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge"/></a>
     <a href="https://join.slack.com/t/getolake/shared_invite/zt-2utw44do6-g4XuKKeqBghBMy2~LcJ4ag"><img alt="slack" src="https://img.shields.io/badge/Join%20Our%20Community-Slack-blue"/></a>
 </p>
+
+## 🧊 TL;DR: OLake — Super-fast Sync to Apache Iceberg
+
+> **OLake** is an open-source connector for replicating data from transactional databases like **PostgreSQL, MySQL, MongoDB, Oracle & Kafka** to open data lakehouse formats like **Apache Iceberg** — at blazing speeds and minimal infrastructure cost.
+
+<h1 align="center" style="border-bottom: none">
+    <a href="https://datazip.io/olake" target="_blank">
+        <img width="3840" height="1920" alt="image" src="https://github.com/user-attachments/assets/e59edc8c-38b6-4d59-ac79-63bf4e0b3a1e" />
+    </a>
+</h1>
 
 ## 🧊 TL;DR: OLake — Super-fast Sync to Apache Iceberg
 
